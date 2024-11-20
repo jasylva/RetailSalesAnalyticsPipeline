@@ -1,0 +1,6 @@
+{
+	"name": "RSAPintegrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

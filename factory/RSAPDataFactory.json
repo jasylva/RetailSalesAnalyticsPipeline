@@ -1,0 +1,9 @@
+{
+	"name": "RSAPDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e313d392-c85b-449d-b17d-b726fd98fbb8",
+		"tenantId": "88d59d7d-aecb-41b2-90c5-55595de02536"
+	}
+}
